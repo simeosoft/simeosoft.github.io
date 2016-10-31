@@ -5,9 +5,7 @@ name: Carlo Simeone
 
 # Build settings
 markdown: kramdown
-
-intro:
-    Attività di consulenza software relativa alla progettazione, pianificazione, deployment e manutenzione di applicativi in ambito web e desktop.
+    
     
 #User specific content
 #Links that will appear in the navbar
