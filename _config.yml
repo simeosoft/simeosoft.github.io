@@ -5,7 +5,8 @@ name: Carlo Simeone
 
 # Build settings
 markdown: kramdown
-    
+
+intro: Attività di consulenza software relativa alla progettazione, pianificazione, deployment e manutenzione di applicativi in ambito web e desktop.    
     
 #User specific content
 #Links that will appear in the navbar
@@ -18,22 +19,22 @@ primarylinks:
 #Any buzzword skills you want to include
 skills:
  - Linux
- - Gradle
  - Java
  - SQL
- - REST
- - Tech Architecture
+ - Architettura sistemi
+ - Networking 
+ - Big Data
 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
 #blogfeed: http://automateddeveloper.blogspot.com/feeds/posts/default
 
 #Work experience is required
 roles:
- - title: Senior Engineer
+ - title: IT Consultant
    start: 2009
    end: Ongoing
    employer: Simeosoft di Carlo Simeone
-   description: Consulenza software.
+   description: Consulente software
  - title: Responsabile sistemi/infrastruttura di rete/Analista
    start: 2003
    end: 2008
@@ -89,7 +90,7 @@ education:
 #List of interesting Github repo/projects to include - optional
 github:
  - simeosoft/simeolib
- - simeosoft/proci
+ #- simeosoft/proci
 
 #Stackoverflow flair is optional
 #stackoverflow:
